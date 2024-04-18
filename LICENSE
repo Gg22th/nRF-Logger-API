@@ -1,5 +1,11 @@
 BSD 3-Clause License
-
+echo "# C" >> README.md 
+git init 
+git เพิ่ม README.md 
+git commit -m "การคอมมิตครั้งแรก" 
+สาขา git -M main 
+git remote เพิ่มต้นกำเนิดhttps://github.com/Gg22th/C.git
+ git push - คุณกำเนิดหลัก
 Copyright (c) 2016, Nordic Semiconductor
 All rights reserved.
 
